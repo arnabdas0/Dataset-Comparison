@@ -27,7 +27,7 @@ This web application serves two main purposes:
 1. **Clone the repository:**
 
 ```
-git clone https://github.com/your-username/transmission-line-fault-dataset-comparison.git
+git clone https://github.com/arnabdas0/Dataset-Comparison.git
 ```
 
 2. **Install dependencies:**
